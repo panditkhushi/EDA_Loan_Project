@@ -99,4 +99,5 @@ The notebook loan_project_pratice.ipynb follows a structured machine learning wo
 8. Higher income borrowers request higher loans, but risk exists across incomes.
 
 **Histogram for Loan Amount Distribution**
-<img src="Khushi/loan project/Picture1" alt="Loan EDA" width="500"/>
+
+<img src="Images/Distribution.png" alt="Loan EDA" width="500"/>
