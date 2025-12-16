@@ -4,12 +4,14 @@
 This project demonstrates how real-world loan approval problems can be solved using data analysis and machine learning techniques.
 By working on this notebook, you gain practical understanding of how financial institutions analyze customer data to make informed loan approval decisions while minimizing risk.
 The project combines data preprocessing, exploratory analysis, and predictive modeling to classify whether a loan application should be approved or not.
-Business Understanding
+
+## Business Understanding
 You are working for a financial institution / lending company that provides loans to customers.
 Whenever a customer applies for a loan, the company must decide whether to approve or reject the loan based on the applicant’s profile.
-There are two major risks involved in this decision:
-•	If the applicant is likely to repay the loan, rejecting the loan results in a loss of business and profit
-•	If the applicant is not likely to repay the loan, approving the loan can lead to a financial loss due to default
+There are two major risks involved in this decision:<br>
+-	If the applicant is likely to repay the loan, rejecting the loan results in a loss of business and profit<br>
+-	If the applicant is not likely to repay the loan, approving the loan can lead to a financial loss due to default<br>
+
 The dataset used in this project contains information about previous loan applicants along with their loan approval status.
 The goal is to identify patterns in applicant and loan-related features that influence the approval decision.
 ________________________________________
