@@ -58,6 +58,7 @@ The dataset consists of information related to loan applicants and loan details.
 
 ## 🔍Approach Used in the Notebook
 The notebook loan_project_pratice.ipynb follows a structured machine learning workflow:
+
 **1️⃣ Data Loading**
 -	Dataset is loaded using Pandas
 -	Initial inspection is done to understand shape, columns, and data types
