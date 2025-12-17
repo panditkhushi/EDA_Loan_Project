@@ -1,4 +1,7 @@
-# Loan Prediction Project — Data Analysis & Machine Learning for Loan Approval
+👩‍💻 Author
+
+Khushi Pandit
+# Loan Prediction Project — Data Analysis for Loan Approval
 
 ## 📌Introduction
 This project demonstrates how real-world loan approval problems can be solved using data analysis and machine learning techniques.
