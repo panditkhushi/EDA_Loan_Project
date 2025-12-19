@@ -104,4 +104,4 @@ The notebook loan_project_pratice.ipynb follows a structured machine learning wo
 
 **Histogram for Loan Amount Distribution**
 
-<img src="" alt="Loan EDA" width="500"/>
+<img src="Images/Loan_Amount_Distribution.png" alt="Loan EDA" width="500"/>
