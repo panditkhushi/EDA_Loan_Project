@@ -110,3 +110,22 @@ The notebook loan_project_pratice.ipynb follows a structured machine learning wo
 
 <img src = "Images/Interset_rate_distribution.png" alt ='Loan EDA' width = '500'/>
 
+**Annual Income Distribution**
+
+<img src = "Images/Annual_income.png" alt = 'Loan EDA' width = '500/'>
+
+**Loan Term Distribution**
+
+<img src = "Images/Loan_term.png" alt = 'Loan EDA' width = '500'/>
+
+**Loan Status DIstribution**
+
+<img src = "Images/Loan_status.png" alt ='Loan EDA' width = '500/'>
+
+**Top 10 Purposes**
+
+<img src = "Images/Top_10_Loan_Purpose.png" alt = 'Loan EDA' width = '500/'>
+
+**Loan Amount by Term**
+
+<img src = "Images/Loan_Amount.png" alt ="Loan EDA" width = '500/'> 
