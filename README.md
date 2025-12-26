@@ -129,3 +129,5 @@ The notebook loan_project_pratice.ipynb follows a structured machine learning wo
 **Loan Amount by Term**
 
 <img src = "Images/Loan_Amount.png" alt ="Loan EDA" width = '500/'> 
+
+
