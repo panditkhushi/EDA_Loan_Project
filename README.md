@@ -130,4 +130,10 @@ The notebook loan_project_pratice.ipynb follows a structured machine learning wo
 
 <img src = "Images/Loan_Amount.png" alt ="Loan EDA" width = '500/'> 
 
+**Interest Rate by Grade**
+
+<img src = "Images/Interset_rate.png" alt ="Loan EDA" width = '500/'> 
+
+
+
 
